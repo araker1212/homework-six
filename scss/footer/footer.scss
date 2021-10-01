@@ -1,0 +1,31 @@
+footer {
+  width: 100%;
+  height: 92px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #79addc;
+  margin: 0 auto 0 auto;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 150px;
+  margin-top: 50px;
+
+  img {
+    width: 96px;
+    height: 42px;
+  }
+  .copyright {
+    color: white;
+    font-family: GS;
+    font-size: 12px;
+  }
+
+  .media {
+    img {
+      filter: grayscale(white);
+      height: 23px;
+      width: 23px;
+    }
+  }
+}

@@ -1,0 +1,30 @@
+.info {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding-top: 30px;
+
+  .p {
+    width: 100%;
+    padding-left: 50px;
+
+    h1 {
+      font-size: 60px;
+      font-family: PC;
+    }
+
+    p {
+      font-size: 16px;
+      font-family: GS;
+    }
+  }
+}
+
+@media only screen and (max-width: 800px) {
+  .info {
+    flex-direction: column;
+
+    .p {
+      margin-top: 10px;
+    }
+  }
+}

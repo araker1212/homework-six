@@ -1,0 +1,25 @@
+.hero1 {
+  width: 100%;
+  height: 500px;
+  background-image: url(/images/tour/tour-01.jpg);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  position: relative;
+}
+.hero1 .country {
+  color: white;
+  font-size: 80px;
+  font-family: PC;
+  padding-left: 30px;
+}
+.hero1 .price {
+  color: white;
+  font-size: 30px;
+  font-family: PC;
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  padding-right: 10px;
+  text-transform: uppercase;
+}
