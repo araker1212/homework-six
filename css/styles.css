@@ -91,7 +91,7 @@ nav .links span {
 .home .hero {
   width: 60%;
   height: 200px;
-  background-image: url(/images/tour/tours-header.jpg);
+  background-image: url(images/tour/tours-header.jpg);
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -113,7 +113,7 @@ nav .links span {
 .home .hero1 {
   width: 60%;
   height: 500px;
-  background-image: url(/images/tour/tour-01.jpg);
+  background-image: url(images/tour/tour-01.jpg);
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -138,7 +138,7 @@ nav .links span {
 .home .hero2 {
   width: 60%;
   height: 500px;
-  background-image: url(/images/tour/tour-02.jpg);
+  background-image: url(images/tour/tour-02.jpg);
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -163,7 +163,7 @@ nav .links span {
 .home .hero3 {
   width: 60%;
   height: 500px;
-  background-image: url(/images/tour/tour-03.jpg);
+  background-image: url(images/tour/tour-03.jpg);
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -188,7 +188,7 @@ nav .links span {
 .home .hero4 {
   width: 60%;
   height: 500px;
-  background-image: url(/images/tour/tour-04.jpg);
+  background-image: url(images/tour/tour-04.jpg);
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -213,7 +213,7 @@ nav .links span {
 .home .hero5 {
   width: 60%;
   height: 500px;
-  background-image: url(/images/tour/tour-05.jpg);
+  background-image: url(images/tour/tour-05.jpg);
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -238,7 +238,7 @@ nav .links span {
 .home .hero6 {
   width: 60%;
   height: 500px;
-  background-image: url(/images/tour/tour-06.jpg);
+  background-image: url(images/tour/tour-06.jpg);
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -263,7 +263,7 @@ nav .links span {
 .home .hero7 {
   width: 60%;
   height: 500px;
-  background-image: url(/images/tour/tour-07.jpg);
+  background-image: url(images/tour/tour-07.jpg);
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -288,7 +288,7 @@ nav .links span {
 .home .hero8 {
   width: 60%;
   height: 500px;
-  background-image: url(/images/tour/tour-08.jpg);
+  background-image: url(images/tour/tour-08.jpg);
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -313,7 +313,7 @@ nav .links span {
 .home .hero9 {
   width: 60%;
   height: 500px;
-  background-image: url(/images/tour/tour-09.jpg);
+  background-image: url(images/tour/tour-09.jpg);
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -351,7 +351,7 @@ nav .links span {
 .tours1 .tour-one {
   height: 304px;
   width: 236px;
-  background-image: url(/images/tour/tour-01.jpg);
+  background-image: url(images/tour/tour-01.jpg);
   opacity: 1.2;
   background-position: center;
   background-size: cover;
@@ -400,7 +400,7 @@ nav .links span {
 .tours1 .tour-two {
   height: 304px;
   width: 236px;
-  background-image: url(/images/tour/tour-02.jpg);
+  background-image: url(images/tour/tour-02.jpg);
   opacity: 1.2;
   background-position: center;
   background-size: cover;
@@ -449,7 +449,7 @@ nav .links span {
 .tours1 .tour-three {
   height: 304px;
   width: 236px;
-  background-image: url(/images/tour/tour-03.jpg);
+  background-image: url(images/tour/tour-03.jpg);
   opacity: 1.2;
   background-position: center;
   background-size: cover;
@@ -511,7 +511,7 @@ nav .links span {
 .tours2 .tour-one {
   height: 304px;
   width: 236px;
-  background-image: url(/images/tour/tour-04.jpg);
+  background-image: url(images/tour/tour-04.jpg);
   opacity: 1.2;
   background-position: center;
   background-size: cover;
@@ -560,7 +560,7 @@ nav .links span {
 .tours2 .tour-two {
   height: 304px;
   width: 236px;
-  background-image: url(/images/tour/tour-05.jpg);
+  background-image: url(images/tour/tour-05.jpg);
   opacity: 1.2;
   background-position: center;
   background-size: cover;
@@ -609,7 +609,7 @@ nav .links span {
 .tours2 .tour-three {
   height: 304px;
   width: 236px;
-  background-image: url(/images/tour/tour-06.jpg);
+  background-image: url(images/tour/tour-06.jpg);
   opacity: 1.2;
   background-position: center;
   background-size: cover;
@@ -880,7 +880,7 @@ nav .links span {
 .toursIsreal .tour-one {
   height: 304px;
   width: 236px;
-  background-image: url(/images/tour/tour-israel/israel-tour-01.jpg);
+  background-image: url(images/tour/tour-israel/israel-tour-01.jpg);
   opacity: 1.2;
   background-position: center;
   background-size: cover;
@@ -889,7 +889,7 @@ nav .links span {
 .toursIsreal .tour-two {
   height: 304px;
   width: 236px;
-  background-image: url(/images/tour/tour-israel/israel-tour-02.jpg);
+  background-image: url(images/tour/tour-israel/israel-tour-02.jpg);
   opacity: 1.2;
   background-position: center;
   background-size: cover;
@@ -898,7 +898,7 @@ nav .links span {
 .toursIsreal .tour-three {
   height: 304px;
   width: 236px;
-  background-image: url(/images/tour/tour-israel/israel-tour-03.jpg);
+  background-image: url(images/tour/tour-israel/israel-tour-03.jpg);
   opacity: 1.2;
   background-position: center;
   background-size: cover;
@@ -937,7 +937,7 @@ nav .links span {
 .toursUSA .tour-one {
   height: 304px;
   width: 236px;
-  background-image: url(/images/tour/tour-usa/usa-tour-01.jpg);
+  background-image: url(images/tour/tour-usa/usa-tour-01.jpg);
   opacity: 1.2;
   background-position: center;
   background-size: cover;
@@ -946,7 +946,7 @@ nav .links span {
 .toursUSA .tour-two {
   height: 304px;
   width: 236px;
-  background-image: url(/images/tour/tour-usa/usa-tour-02.jpg);
+  background-image: url(images/tour/tour-usa/usa-tour-02.jpg);
   opacity: 1.2;
   background-position: center;
   background-size: cover;
@@ -955,7 +955,7 @@ nav .links span {
 .toursUSA .tour-three {
   height: 304px;
   width: 236px;
-  background-image: url(/images/tour/tour-usa/usa-tour-03.jpg);
+  background-image: url(images/tour/tour-usa/usa-tour-03.jpg);
   opacity: 1.2;
   background-position: center;
   background-size: cover;
@@ -994,7 +994,7 @@ nav .links span {
 .toursAUS .tour-one {
   height: 304px;
   width: 236px;
-  background-image: url(/images/tour/tour-aus/aus-tour-01.jpg);
+  background-image: url(images/tour/tour-aus/aus-tour-01.jpg);
   opacity: 1.2;
   background-position: center;
   background-size: cover;
@@ -1003,7 +1003,7 @@ nav .links span {
 .toursAUS .tour-two {
   height: 304px;
   width: 236px;
-  background-image: url(/images/tour/tour-aus/aus-tour-02.jpg);
+  background-image: url(images/tour/tour-aus/aus-tour-02.jpg);
   opacity: 1.2;
   background-position: center;
   background-size: cover;
@@ -1012,7 +1012,7 @@ nav .links span {
 .toursAUS .tour-three {
   height: 304px;
   width: 236px;
-  background-image: url(/images/tour/tour-aus/aus-tour-03.jpg);
+  background-image: url(images/tour/tour-aus/aus-tour-03.jpg);
   opacity: 1.2;
   background-position: center;
   background-size: cover;
@@ -1051,7 +1051,7 @@ nav .links span {
 .toursNZ .tour-one {
   height: 304px;
   width: 236px;
-  background-image: url(/images/tour/tour-nz/nz-tour-01.jpg);
+  background-image: url(images/tour/tour-nz/nz-tour-01.jpg);
   opacity: 1.2;
   background-position: center;
   background-size: cover;
@@ -1060,7 +1060,7 @@ nav .links span {
 .toursNZ .tour-two {
   height: 304px;
   width: 236px;
-  background-image: url(/images/tour/tour-nz/nz-tour-02.jpg);
+  background-image: url(images/tour/tour-nz/nz-tour-02.jpg);
   opacity: 1.2;
   background-position: center;
   background-size: cover;
@@ -1069,7 +1069,7 @@ nav .links span {
 .toursNZ .tour-three {
   height: 304px;
   width: 236px;
-  background-image: url(/images/tour/tour-nz/nz-tour-03.jpg);
+  background-image: url(images/tour/tour-nz/nz-tour-03.jpg);
   opacity: 1.2;
   background-position: center;
   background-size: cover;
@@ -1108,7 +1108,7 @@ nav .links span {
 .toursF .tour-one {
   height: 304px;
   width: 236px;
-  background-image: url(/images/tour/tour-france/france-tour-01.jpg);
+  background-image: url(images/tour/tour-france/france-tour-01.jpg);
   opacity: 1.2;
   background-position: center;
   background-size: cover;
@@ -1117,7 +1117,7 @@ nav .links span {
 .toursF .tour-two {
   height: 304px;
   width: 236px;
-  background-image: url(/images/tour/tour-france/france-tour-02.jpg);
+  background-image: url(images/tour/tour-france/france-tour-02.jpg);
   opacity: 1.2;
   background-position: center;
   background-size: cover;
@@ -1126,7 +1126,7 @@ nav .links span {
 .toursF .tour-three {
   height: 304px;
   width: 236px;
-  background-image: url(/images/tour/tour-france/france-tour-03.jpg);
+  background-image: url(images/tour/tour-france/france-tour-03.jpg);
   opacity: 1.2;
   background-position: center;
   background-size: cover;
@@ -1165,7 +1165,7 @@ nav .links span {
 .toursE .tour-one {
   height: 304px;
   width: 236px;
-  background-image: url(/images/tour/tour-egypt/egypt-tour-01.jpg);
+  background-image: url(images/tour/tour-egypt/egypt-tour-01.jpg);
   opacity: 1.2;
   background-position: center;
   background-size: cover;
@@ -1174,7 +1174,7 @@ nav .links span {
 .toursE .tour-two {
   height: 304px;
   width: 236px;
-  background-image: url(/images/tour/tour-egypt/egypt-tour-02.jpg);
+  background-image: url(images/tour/tour-egypt/egypt-tour-02.jpg);
   opacity: 1.2;
   background-position: center;
   background-size: cover;
@@ -1183,7 +1183,7 @@ nav .links span {
 .toursE .tour-three {
   height: 304px;
   width: 236px;
-  background-image: url(/images/tour/tour-egypt/egypt-tour-03.jpg);
+  background-image: url(images/tour/tour-egypt/egypt-tour-03.jpg);
   opacity: 1.2;
   background-position: center;
   background-size: cover;
@@ -1222,7 +1222,7 @@ nav .links span {
 .toursJ .tour-one {
   height: 304px;
   width: 236px;
-  background-image: url(/images/tour/tour-japan/japan-tour-01.jpg);
+  background-image: url(images/tour/tour-japan/japan-tour-01.jpg);
   opacity: 1.2;
   background-position: center;
   background-size: cover;
@@ -1231,7 +1231,7 @@ nav .links span {
 .toursJ .tour-two {
   height: 304px;
   width: 236px;
-  background-image: url(/images/tour/tour-japan/japan-tour-02.jpg);
+  background-image: url(images/tour/tour-japan/japan-tour-02.jpg);
   opacity: 1.2;
   background-position: center;
   background-size: cover;
@@ -1240,7 +1240,7 @@ nav .links span {
 .toursJ .tour-three {
   height: 304px;
   width: 236px;
-  background-image: url(/images/tour/tour-japan/japan-tour-03.jpg);
+  background-image: url(images/tour/tour-japan/japan-tour-03.jpg);
   opacity: 1.2;
   background-position: center;
   background-size: cover;
@@ -1279,7 +1279,7 @@ nav .links span {
 .toursCAN .tour-one {
   height: 304px;
   width: 236px;
-  background-image: url(/images/tour/tour-canada/canada-tour-01.jpg);
+  background-image: url(images/tour/tour-canada/canada-tour-01.jpg);
   opacity: 1.2;
   background-position: center;
   background-size: cover;
@@ -1288,7 +1288,7 @@ nav .links span {
 .toursCAN .tour-two {
   height: 304px;
   width: 236px;
-  background-image: url(/images/tour/tour-canada/canada-tour-02.jpg);
+  background-image: url(images/tour/tour-canada/canada-tour-02.jpg);
   opacity: 1.2;
   background-position: center;
   background-size: cover;
@@ -1297,7 +1297,7 @@ nav .links span {
 .toursCAN .tour-three {
   height: 304px;
   width: 236px;
-  background-image: url(/images/tour/tour-canada/canada-tour-03.jpg);
+  background-image: url(images/tour/tour-canada/canada-tour-03.jpg);
   opacity: 1.2;
   background-position: center;
   background-size: cover;
@@ -1336,7 +1336,7 @@ nav .links span {
 .toursUAE .tour-one {
   height: 304px;
   width: 236px;
-  background-image: url(/images/tour/tour-uae/uae-tour-01.jpg);
+  background-image: url(images/tour/tour-uae/uae-tour-01.jpg);
   opacity: 1.2;
   background-position: center;
   background-size: cover;
@@ -1345,7 +1345,7 @@ nav .links span {
 .toursUAE .tour-two {
   height: 304px;
   width: 236px;
-  background-image: url(/images/tour/tour-uae/uae-tour-02.jpg);
+  background-image: url(images/tour/tour-uae/uae-tour-02.jpg);
   opacity: 1.2;
   background-position: center;
   background-size: cover;
@@ -1354,7 +1354,7 @@ nav .links span {
 .toursUAE .tour-three {
   height: 304px;
   width: 236px;
-  background-image: url(/images/tour/tour-uae/uae-tour-03.jpg);
+  background-image: url(images/tour/tour-uae/uae-tour-03.jpg);
   opacity: 1.2;
   background-position: center;
   background-size: cover;
